@@ -10,6 +10,7 @@ h4 {
 }
 
 .control-group {
+	padding :10px;
 	color: white;
 }
 .field {
